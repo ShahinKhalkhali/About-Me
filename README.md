@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CyrusXIII
+- 👋 Hi, I’m @ShahinKhalkhali
 - 👀 I’m interested in electrical systems and designs
 - 🌱 I’m currently learning how to make an android app
 - 💞️ I’m looking to collaborate on innovative and fascinating projects
