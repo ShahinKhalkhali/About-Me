@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShahinKhalkhali
 - 👀 I’m interested in electrical systems and designs
-- 🌱 I’m currently learning how to program using Python and improve my OOP
+- 🌱 I’m currently learning how to program using Python, Java, and improve my OOP
 - 💞️ I’m looking to collaborate on innovative and fascinating projects
 - 📫 How to reach me Shahin.khalkhali94@hotmail.com
 
